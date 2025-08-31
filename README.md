@@ -12,9 +12,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 
@@ -44,8 +42,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Henrido-cpu/social-links-profile)
-- Live Site URL: [Add live site URL here](https://henrido-cpu.github.io/social-links-profile/)
+- Solution URL: [Solution](https://github.com/Henrido-cpu/social-links-profile)
+- Live Site URL: [Live Site](https://henrido-cpu.github.io/social-links-profile/)
 
 
 
